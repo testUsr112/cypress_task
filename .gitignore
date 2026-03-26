@@ -1,0 +1,6 @@
+mochawesome-report/
+node_modules/
+cypress/reports/
+cypress/screenshots/
+mochawesome.json
+xunit.xml
